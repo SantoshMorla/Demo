@@ -8,7 +8,7 @@ mkdir Projects
 
 cd Projects
  
-git clone https://github.com/SantoshMorla/django-todo-cicd.git
+git clone <paste into git repo>
 
 cd django-todo-cicd
 
